@@ -1,4 +1,3 @@
-Buffer UI for ArcGIS API for JavaScript
-=======================================
+Work-in-progress test for consuming data from [epsg.io].
 
-[![bitHound Score](https://www.bithound.io/WSDOT-GIS/arcgis-js-buffer/badges/score.svg)](https://www.bithound.io/WSDOT-GIS/arcgis-js-buffer)
+[epsg.io]:https://epsg.io
